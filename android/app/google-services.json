@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201179397441",
+    "project_id": "ivykids-contacts",
+    "storage_bucket": "ivykids-contacts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201179397441:android:9fb35506c5b104fc5275c0",
+        "android_client_info": {
+          "package_name": "com.example.ivykids_contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201179397441-f4qmmqvv090raukn2a5nfrk7elvtfcn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoB1zaJymEB742F7ggfu5tbtPE1TMHbnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201179397441-f4qmmqvv090raukn2a5nfrk7elvtfcn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
