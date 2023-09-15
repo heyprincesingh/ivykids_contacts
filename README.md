@@ -1,5 +1,4 @@
 <h1>Screenshots<h1>
-   <h3>Screen 1<h3>
       <p align = center >
          <img src = "https://github.com/heyprincesingh/ivykids_contacts/blob/master/gitmedia/1.jpg" height = "300">
          <img src = "https://github.com/heyprincesingh/ivykids_contacts/blob/master/gitmedia/2.jpg" height = "300">
