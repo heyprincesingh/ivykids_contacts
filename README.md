@@ -1,16 +1,23 @@
-# ivykids_contacts
+<h1>Screenshots<h1>
+   <h3>Screen 1<h3>
+      <p align = center >
+         <img src = "https://github.com/heyprincesingh/ivykids_contacts/blob/master/gitmedia/1.jpg" height = "300">
+         <img src = "https://github.com/heyprincesingh/ivykids_contacts/blob/master/gitmedia/2.jpg" height = "300">
+        <img src = "https://github.com/heyprincesingh/ivykids_contacts/blob/master/gitmedia/3.jpg" height = "300">
+        <img src = "https://github.com/heyprincesingh/ivykids_contacts/blob/master/gitmedia/4.jpg" height = "300">
+        <img src = "https://github.com/heyprincesingh/ivykids_contacts/blob/master/gitmedia/5.jpg" height = "300">
+        <img src = "https://github.com/heyprincesingh/ivykids_contacts/blob/master/gitmedia/6.jpg" height = "300">
+        <img src = "https://github.com/heyprincesingh/ivykids_contacts/blob/master/gitmedia/7.jpg" height = "300">
+        <img src = "https://github.com/heyprincesingh/ivykids_contacts/blob/master/gitmedia/8.jpg" height = "300">
+        <img src = "https://github.com/heyprincesingh/ivykids_contacts/blob/master/gitmedia/9.png" height = "300">
+<br><br>
+         
+# Tasks Completed
 
-A contact list application for ivykids
+✅ Contact List Flutter Application which allows users to `add`, `edit`, and `delete` contact details. <br>
+✅ The app consists of an authentication framework `username/password` and `google` using Firebase. <br>
+✅ The contacts for each user are also `stored in Firebase`. <br><br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Brownie points
+✅ `Authentication persists` even on revisiting the Flutter app <br>
+✅ `Editing` and `deleting` a contact in place should be done in place `without the need to re-render` the complete list.<br>
